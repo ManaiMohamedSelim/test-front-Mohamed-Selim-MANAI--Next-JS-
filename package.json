@@ -8,8 +8,21 @@
     "start": "next start"
   },
   "dependencies": {
+    "antd": "^4.6.6",
     "next": "9.5.4",
+    "next-redux-wrapper": "^6.0.2",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-font-style": "0.0.11",
+    "react-redux": "^7.1.3",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
+    "redux-wrapper": "0.0.1",
+    "reselect": "^4.0.0",
+    "styled-components": "^5.2.0"
+  },
+  "resolutions": {
+    "styled-components": "^5"
   }
 }

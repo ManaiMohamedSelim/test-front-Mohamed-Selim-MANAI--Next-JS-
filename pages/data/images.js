@@ -1,0 +1,22 @@
+export const initialData = [
+    {id: 1, visible: false, matched: false, path: "https://images.unsplash.com/photo-1494548162494-384bba4ab999?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"},
+    {id: 2, visible: false, matched: false, path: "https://cdn.jpegmini.com/user/images/slider_puffin_before_mobile.jpg"},
+    {id: 3, visible: false, matched: false, path: "https://i.pinimg.com/originals/ca/76/0b/ca760b70976b52578da88e06973af542.jpg"},
+    {id: 4, visible: false, matched: false, path: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShIIDvmeMj2Kx8g3s2avlxBD6KZ3h0i6ZlyA&usqp=CAU"},
+    {id: 5, visible: false, matched: false, path: "https://helpx.adobe.com/content/dam/help/en/stock/how-to/visual-reverse-image-search/jcr_content/main-pars/image/visual-reverse-image-search-v2_intro.jpg"},
+    {id: 6, visible: false, matched: false, path: "https://img1.bonnesimages.com/bi/amour/amour_044.jpg"},
+    {id: 7, visible: false, matched: false, path: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSO0WAXrXCpPUATLdTPESSMbq5_q-LDQ7e3Og&usqp=CAU"},
+    {id: 8, visible: false, matched: false, path: "https://cdn.shopify.com/s/files/1/0249/6376/files/negative-space-bright-sunflower_1024x1024.jpg?v=1558722715"},
+    {id: 9, visible: false, matched: false, path: "https://images.static.press.net/v2/image/webpreview/5672f7554baf8f1d964f37c34328856acHVibGljc2VhcmNobm93bSwxNjAxNzI5MzI2/2.50169101.jpg"},
+    {id: 10, visible: false, matched: false, path: "https://media3.s-nbcnews.com/j/newscms/2019_41/3047866/191010-japan-stalker-mc-1121_06b4c20bbf96a51dc8663f334404a899.fit-760w.JPG"},
+    {id: 11, visible: false, matched: false, path: "https://lh3.googleusercontent.com/BdQ1ngugnmV6uT960KOX0G9av7YJF4MnoEdSgi5xBINEC4YYuOp3Q7RUj7i4Cg0tRQ=w884-rwa"},
+    {id: 12, visible: false, matched: false, path: "https://photos.lci.fr/images/613/344/le-roi-lion-disney-jon-favreau-61e187-0@1x.jpeg"},
+    {id: 13, visible: false, matched: false, path: "https://s23527.pcdn.co/wp-content/uploads/2017/04/nasa-gallery.jpg.optimal.jpg"},
+    {id: 14, visible: false, matched: false, path: "https://lejournal.cnrs.fr/sites/default/files/styles/visuel_principal/public/assets/images/gettyimages-924291506_72dpi.jpg"},
+    {id: 15, visible: false, matched: false, path: "https://deep-image.ai/static/media/slider-3-a.a21f311c.jpg"},
+    {id: 16, visible: false, matched: false, path: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQiT9E-DFBokH8-idRbxYheI-3Bjutkry8_Uw&usqp=CAU"},
+    {id: 17, visible: false, matched: false, path: "https://www.onceuponapicture.co.uk/wp-content/uploads/2019/02/46456227_2504829799542273_7554593422053474304_o-700x525.jpg"},
+    {id: 18, visible: false, matched: false, path: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/chihuahua-dog-running-across-grass-royalty-free-image-1580743445.jpg?crop=0.446xw:1.00xh;0.254xw,0&resize=480:*"},
+    {id: 19, visible: false, matched: false, path: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRopSBZvVsg4feN_UVycFutRBk94IPgiQdexw&usqp=CAU"},
+    {id: 20, visible: false, matched: false, path: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSyjf6_lGVJaf3bPY6y5GLAN3JJiZacElfbA&usqp=CAU"}
+]
